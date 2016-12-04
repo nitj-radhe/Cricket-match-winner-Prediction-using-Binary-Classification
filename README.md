@@ -20,11 +20,11 @@ The 80% of the dataset is assigned to the training set and 20% is assigned to th
 
 ## Prerequisities
 The following softwares/Libraries are the prerequities for testing the model.
-		1. python 2.7
-		2. Matplotlib
-		3. sklearn
-		4. pandas
-		5. numpy
+		1.python 2.7
+		2.Matplotlib
+		3.sklearn
+		4.pandas
+		5.numpy
 
 ## Logistic Regression Model
 The logisitic Regression classifier Model is used to train the dataset for classification, The parameters considered are C(Regularisation factor) where smaller the value, gives stronger regularisation. Number of iterations and class_weight factor for smooth modelling of dataset.
