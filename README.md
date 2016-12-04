@@ -1,4 +1,4 @@
-# Binary Classification of Tumor using gene expression data
+# Cricket-match-winner-Prediction-using-Binary-Classification
 
 ## Synopsis
 The problem objective is to predict the winner of the cricket match based on the observations given in the dataset. The dataset consists of 28 features which are observed during the match. The approach used in modeling the Prediction system is logistic Regression classifier. The reason behind choosing the logistic regression classifier over the neural network is that the number of samples in the dataset are 252 samples with 28 features set for the each example. Choosing the neural network over logistic regression may overfit the model and 
