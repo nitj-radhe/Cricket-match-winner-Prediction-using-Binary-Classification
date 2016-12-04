@@ -1,7 +1,7 @@
 # Cricket match winner prediction using the Logistic Regression classifier
 
 ## Synopsis
-The problem objective is to find the winner of the cricket match based on the observations given in the dataset. The dataset consists of 28 features.
+The problem objective is to predict the winner of the cricket match based on the observations given in the dataset. The dataset consists of 28 features which are observed during the match. The approach used in modeling the Prediction system is logistic Regression classifier. The reason behind choosing the logistic regression classifier over the neural network is that the number of samples in the dataset are 252 samples with 28 features set for the each example.
 
 ## Data Preprocessing 
 The dataset contains 2000 features for each input and the size of the dataset is 62,In this classfication task,The Multi level perceptron model is used to predict the class of tumor present or not. The positive samples are assigned to the output 1 and the negative samples are assigned to value 0.
