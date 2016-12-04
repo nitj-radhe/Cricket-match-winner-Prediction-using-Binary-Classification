@@ -1,9 +1,7 @@
-# Binary Classification of Tumor using gene expression data
+# Cricket match winner prediction using the Logistic Regression classifier
 
 ## Synopsis
-The dataset contains 62 samples collected from colon-cancer patients. Among them, 40 tumor biopsies are from tumors (labelled as "negative") and 22 normal (labelled as "positive") biopsies are from healthy parts of the colons of the same patients. Two thousand out of around 6500 genes were selected based on the confidence in the measured expression levels.
-The task is to predict the presence of tumor based on the gene expression data.
-
+The problem objective is 
 
 ## Data Preprocessing 
 The dataset contains 2000 features for each input and the size of the dataset is 62,In this classfication task,The Multi level perceptron model is used to predict the class of tumor present or not. The positive samples are assigned to the output 1 and the negative samples are assigned to value 0.
