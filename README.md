@@ -6,7 +6,7 @@ The problem objective is to predict the winner of the cricket match based on the
 
 ## Data Preprocessing and Model Design.
 The observation of the dataset given shows some of the factors which can be neglected.In this example we are neglecting the two features which are Data and Time of the match.The dataset consists of the 28 featurs as the input and the output as binary values assigned predicting the winner of the match based on these feature set. The values are assigned as team 1=1 and team 2=0 for the winning team as true labels.The dataset preprocessing for this problem statement is as follows:
-		1. Load the Data
+Markup:		1. Load the Data
 		2. Extract the features  (Neglect less contributing factors)
 		3. Feature slection using PCA
 		4. Class_weight vector calculation based on the occurance of each example in the dataset.
